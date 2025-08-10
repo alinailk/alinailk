@@ -1,6 +1,6 @@
 # Merhaba, ben Ali Nail! 👋
 
-Ben bir yazılım geliştiricisiyim ve farklı platformlarda çalışarak kendimi geliştiriyorum. Web teknolojileri üzerine geliştirmeler yaparak sürekli öğrenmeye ve pratik yapmaya devam ediyorum.
+Yazılım geliştiricisiyim; farklı platformlarda projeler geliştirerek kendimi sürekli olarak geliştiriyorum. Özellikle web teknolojileri alanında çalışıyor, öğrenmeye ve pratik yapmaya devam ediyorum.
 
 ### 💻 Programlama Dilleri & Teknolojiler:
 <p align="left">
